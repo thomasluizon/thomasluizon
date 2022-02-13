@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @ThomasLuizon
-- 👀 I’m really into front-end development
-- 🌱 I’m currently learning HTML/CSS/JavaScript, and in the future i will learn Vue.JS
-- 📫 Check out my linkedin profile: https://www.linkedin.com/in/thomas-luizon/
+## Hello! My name's Thomas and i'm a front end developer!
 
-<!---
-ThomasLuizon/ThomasLuizon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/thomasluizon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomasluizon&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasluizon&layout-compact&langs_count=16&theme=dracula"/>
+</div>
