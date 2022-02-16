@@ -1,5 +1,6 @@
-## Hello! My name's Thomas and i'm a front end developer!
+## Hi there, I'm Thomas 👋
 
+<p>📊 Latest Stats</p>
 <div style="display: flex; width: 100%; justify-content: space-between;">
   <a href="https://github.com/thomasluizon">
 <p align="center">
