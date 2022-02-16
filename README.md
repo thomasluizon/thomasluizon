@@ -1,17 +1,19 @@
 ## Hi there, I'm Thomas 👋
 
-<p>📊 Latest Stats</p>
-<div style="display: flex; width: 100%; justify-content: space-between;">
+<h3>📊  Latest Stats</h3>
+<div>
   <a href="https://github.com/thomasluizon">
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomasluizon&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasluizon&layout-compact&langs_count=16&theme=dracula"/>
 </p>
 </div>
+  <h3>💻  Languages</h3>
   <div style="display: inline_block"><br>
     <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="right" width="400" max-width="100%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
   </div>
 
   ##
