@@ -25,4 +25,4 @@
 
   ##
   
-  ![snake gif](https://github.com/thomasluizon/thomasluizon/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/thomasluizon/thomasluizon/blob/output/github-contribution-grid-snake.svg)
