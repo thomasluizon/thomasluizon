@@ -4,11 +4,10 @@
 <div>
   <a href="https://github.com/thomasluizon">
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomasluizon&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasluizon&layout-compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomasluizon&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasluizon&layout-compact&langs_count=16&theme=tokyonight"/>
 </p>
 </div>
-  <h3>💻  Languages</h3>
   <div style="display: inline_block"><br>
     <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
