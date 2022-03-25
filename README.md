@@ -1,6 +1,5 @@
 ## Hi there, I'm Thomas 👋
 
-<h3>📊  Latest Stats</h3>
 <div>
   <a href="https://github.com/thomasluizon">
 <p align="center">
