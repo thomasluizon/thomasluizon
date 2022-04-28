@@ -1,20 +1,24 @@
-## Hi there, I'm Thomas 👋
+<h1 align="center">Hi 👋, I'm Thomas</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
 <div>
   <a href="https://github.com/thomasluizon">
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thomasluizon&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasluizon&langs_count=16&theme=tokyonight&layout=compact"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasluizon&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thomasluizon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasluizon&show_icons=true&locale=en&theme=tokyonight" alt="thomasluizon" /></p>
+ <a/>
 </div>
-  <div style="display: inline_block"><br>
-    <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-    <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  </div>
+  
+  ##
+  
+<div style="display: inline_block"><br>
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+</div>
 
   ##
   
