@@ -3,9 +3,12 @@
 
 <div>
   <a href="https://github.com/thomasluizon">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasluizon&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="thomasluizon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasluizon&show_icons=true&locale=en&theme=tokyonight" alt="thomasluizon" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thomasluizon&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasluizon&langs_count=16&theme=tokyonight&layout=compact"/>
+</p>
  <a/>
 </div>
   
