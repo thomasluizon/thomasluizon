@@ -32,4 +32,4 @@
     <a target="_blank" href="https://thomas-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   </div>
   
-  ![snake gif](https://github.com/thomasluizon/thomasluizon/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/thomasluizon/thomasluizon/blob/output/github-contribution-grid-snake.svg) -->
