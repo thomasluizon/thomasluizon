@@ -28,8 +28,8 @@
   
   <div>
     <a target="_blank" href="mailto:thomaslrgregorio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a target="_blank" href="https://www.linkedin.com/in/thomas-luizon/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a target="_blank" href="https://thomas-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+    <a target="_blank" href="https://www.linkedin.com/in/thomas-luizon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a target="_blank" href="https://thomas-luizon-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   </div>
   
 <!-- ![snake gif](https://github.com/thomasluizon/thomasluizon/blob/output/github-contribution-grid-snake.svg) -->
